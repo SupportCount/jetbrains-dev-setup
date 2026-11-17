@@ -1,0 +1,9 @@
+{
+  "product": "JetBrains Dev Setup",
+  "version": "5.7.0",
+  "channel": "beta",
+  "updated": "2026-11-17",
+  "mirror_region": "global",
+  "auto_update": true,
+  "telemetry": false
+}
